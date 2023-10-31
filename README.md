@@ -17,4 +17,5 @@ Instructions for preparing the data:
 7. Augment the training set using img_aug.py (included in this code package)
    -- this will create an augmented training set in the following directory:
       "./datasets/cub200_cropped/train_cropped_augmented/"
+
 Instructions for training a specific type of model are provided in the README file under corresponding model folder. 
