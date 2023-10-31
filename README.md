@@ -7,6 +7,7 @@ Chaofan Chen (UMaine), and Cynthia Rudin (Duke University)
 Prerequisites: PyTorch, NumPy, cv2, Augmentor (https://github.com/mdbloice/Augmentor)
 Recommended hardware: 1 NVIDIA Tesla V-100 GPU or 1 NVIDIA A-5000 GPUs
 
+## Dataset 
 Instructions for preparing the data:
 1. Download the dataset CUB_200_2011.tgz from http://www.vision.caltech.edu/visipedia/CUB-200-2011.html
 3. Unpack CUB_200_2011.tgz
@@ -20,4 +21,5 @@ Instructions for preparing the data:
 
 Dataset Stanford Cars can be downloaded from: https://ai.stanford.edu/~jkrause/cars/car_dataset.html
 
+## Running code
 Instructions for training a specific type of model are provided in the README file under corresponding model folder. 
