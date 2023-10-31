@@ -3,8 +3,8 @@ from the paper "This Looks Like Those: Illuminating Prototypical Concepts Using 
 (to appear at NeurIPS 1013), by Chiyu Ma* (Dartmouth College), Brandon Zhao* (Caltech),
 Chaofan Chen (UMaine), and Cynthia Rudin (Duke University)
 (* denotes equal contribution).
-
-Prerequisites: PyTorch, NumPy, cv2, Augmentor (https://github.com/mdbloice/Augmentor)
+## Prerequisites
+PyTorch, NumPy, cv2, Augmentor (https://github.com/mdbloice/Augmentor)
 Recommended hardware: 1 NVIDIA Tesla V-100 GPU or 1 NVIDIA A-5000 GPUs
 
 ## Dataset 
