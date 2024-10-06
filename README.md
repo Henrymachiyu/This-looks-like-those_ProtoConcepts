@@ -1,7 +1,7 @@
 This code package implements the prototypical Concepts network (ProtoConcepts)
 from the paper 
 
-## "This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations"(NeurIPS 2023), 
+## "This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations"(NeurIPS 2023)
 
 Chiyu Ma* (Dartmouth College), Brandon Zhao* (Caltech),
 Chaofan Chen (UMaine), and Cynthia Rudin (Duke University)
