@@ -3,7 +3,7 @@ from the paper
 
 ## "This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations"(NeurIPS 2023), 
 
-by Chiyu Ma* (Dartmouth College), Brandon Zhao* (Caltech),
+Chiyu Ma* (Dartmouth College), Brandon Zhao* (Caltech),
 Chaofan Chen (UMaine), and Cynthia Rudin (Duke University)
 (* denotes equal contribution).
 ## Prerequisites
